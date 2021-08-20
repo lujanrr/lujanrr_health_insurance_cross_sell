@@ -155,7 +155,7 @@ Receita Anual com o modelo proposto: 3.017.520.000
 Diferença em R$: 1.036.320.000
 
 # Quantas ligações a equipe de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir seguro de automóveis?
-Para atingir 80% dos clientes interessados seria necessárias pelo menos 19500 ligações.
+Para atingir 80% dos clientes interessados seriam necessárias pelo menos 19500 ligações.
 
 ![question22](/images/calls_to80.png)
 
