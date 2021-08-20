@@ -130,8 +130,11 @@ Ao realizar 20 mil ligações, o modelo proposto é cerca de 2,5 vezes melhor do
 ![question12](/images/Lift_curve@20k.png)
 
 Considerando uma média mensal de R$2000, o resultado em cima da nova base de **127.000** clientes seria de:
+
 Receita Anual com o modelo aleatório: 1.005.840.000
+
 Receita Anual com o modelo proposto: 2.468.880.000
+
 Diferença em R$: 1.463.040.000 
 
 ## E se a capacidade da equipe de vendas aumentar para 40.000 chamadas?
@@ -144,8 +147,11 @@ Ao realizar 40 mil ligações, o modelo proposto é cerca de 1,6 vezes melhor do
 ![question22](/images/Lift_curve@40k.png)
 
 Considerando uma média mensal de R$2000, o resultado em cima da nova base de **127.000** clientes seria de:
+
 Receita Anual com o modelo aleatório: 1.981.200.000
+
 Receita Anual com o modelo proposto: 3.017.520.000
+
 Diferença em R$: 1.036.320.000
 
 # Quantas ligações a equipe de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir seguro de automóveis?
