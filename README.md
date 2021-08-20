@@ -162,21 +162,9 @@ Para atingir 80% dos clientes interessados seriam necessárias pelo menos 19500 
 
 #  Conclusão
 
-Por fim é possível ter a compreensão que por mais que o modelo baseado em médias seja simples, ainda sim é um modelo coerente e coeso, embora ele não consiga analisar as oscilções de cada loja ele continua sendo uma opção dentro do leque das soluções.
 
-O Modelo XGBoost para o primeiro ciclo (Metodologia CRISP-DM) apresentou um resultado dentro da faixa do aceitavel, embora algumas lojas se apresentaram difíceis de terem o comportamento previsto apresentando o MAPE (Mean Absolute Percenage Error) entre 0.30 a 0.56, esse primeiro resultado será apresentado para empresa, para informar em como está indo o projeto e o que ja se tem como solução.
 
 
 #  Próximos Passos
 
-Iniciar um segundo ciclo para analisar o problema buscando abordagens diferentes, tendo em vista principalmente as lojas com o comportamento difíceis de serem previsto.
 
-Possíveis pontos para serem abordados no segundo ciclo:
-
--**Trabalhar com os dados NA de maneira diferente**
-
--**Rescaling e Encode dos dados com metodologias diferentes**
-
--**Trabalhar com novas Features para previsão**
-
--**Trabalhar com um método mais robusto para achar os melhores Hyper parametros para o modelo**
