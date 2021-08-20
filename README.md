@@ -87,7 +87,7 @@ da url: https://docs.google.com/spreadsheets/d/1W7ArDkOMPC2Zz72PY5A5KPqxZZx3_oLL
 **VERDADEIRA**: Aproximadamente 87% dos clientes interessados tem mais que 30 anos de idade.
 
 #  Modelos de Machine Learning aplicados
-Teste foram realizados usando os seguintes algoritmos:
+Os Testes foram realizados usando os seguintes algoritmos:
 
 **KNN Classifier**
 
