@@ -1,3 +1,5 @@
+![question22](/images/Insurance.jpg)
+
 # Insurance All Company
 
 **Aviso:** O seguinte contexto é completamente fictício, a empresa, o contexto, o CEO, as questões de negócios existem apenas na minha imaginação.
@@ -158,8 +160,7 @@ Diferença em R$: 1.036.320.000
 Para atingir 80% dos clientes interessados seriam necessárias pelo menos 19500 ligações.
 
 ![question22](/images/calls_to80.png)
-
-
+                      
 #  Conclusão
 
 
