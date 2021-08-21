@@ -117,7 +117,7 @@ LogisticRegression|	0.7959|	0.7332|	0.0010|	0.9305|	0.0013|	0.7954|	0.0012|	0.37
 GaussianNB	|0.7899|0.7112|	0.0013|	0.9761|	0.0007|	0.7874|	0.0022|	0.3751|	0.0011|
 
 ## Modelo Final
-Ao final dos testes realizados o Modelo de **Light Gradient Boosting Machine Classifier** foi selecionado como modelo final, devido a sua alta performance e também
+Ao final dos testes realizados o Modelo **Light Gradient Boosting Machine Classifier** foi selecionado como modelo final, devido a sua alta performance e também
 pelo tamanho reduzido (354.847 bytes) quando comparado a outros modelos de árvores que podem facilmente ultrapassar o tamanho de 1Gb (1e+9 bytes)
 
 # Conversão do desempenho do modelo em valores de negócios
@@ -131,7 +131,7 @@ Ao realizar 20 mil ligações, o modelo proposto é cerca de 2,5 vezes melhor do
 
 ![question12](/images/Lift_curve@20k.png)
 
-Considerando o preço de seguro veicular como uma média mensal de R$2000, o resultado em cima da nova base de **127.000** clientes seria de:
+Considerando o preço de seguro veicular como uma média mensal de R$2000, a receita em cima da nova base de **127.000** clientes com 20 mil ligações seria de:
 
 Receita Anual com o modelo aleatório: 1.005.840.000
 
@@ -148,7 +148,7 @@ Ao realizar 40 mil ligações, o modelo proposto é cerca de 1,6 vezes melhor do
 
 ![question22](/images/Lift_curve@40k.png)
 
-Considerando o preço de seguro veicular como uma média mensal de R$2000, o resultado em cima da nova base de **127.000** clientes seria de:
+Considerando o preço de seguro veicular como uma média mensal de R$2000, a receita em cima da nova base de **127.000** clientes com 40 mil ligações seria de:
 
 Receita Anual com o modelo aleatório: 1.981.200.000
 
