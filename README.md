@@ -162,10 +162,24 @@ Para atingir 80% dos clientes interessados seriam necessárias pelo menos 19500 
 ![question22](/images/calls_to80.png)
                       
 #  Conclusão
+Ao Final deste projeto foi possivel compreender o fenômeno Learning to Rank (LTR) e como é utilizada usada para aperfeiçoar os resultados da pesquisa com base em coisas como padrões de uso reais. Existem três abordagens para LTR sendo elas Pointwise,Listwise e Pairwise (utilizada neste projeto).
 
+Abordagens de Pairwise examinam dois documentos juntos. Eles também usam classificação ou regressão - para decidir qual dos pares tem melhor classificação.
+Comparamos este par superior-inferior com a verdade básica e ajustamos a classificação se não corresponder. O objetivo é minimizar o número de casos em que o par de resultados está na ordem errada em relação à verdade fundamental.
 
-
+Outro ponto interessante foram as métricas diferenciadas para este tipo de metodologia, onde se utilizam as denominadas metricas @K/atK, diferente das métricas de avaliação padrões, as métricas TOPK (@K/atK) estão interessados em ranquear os N itens principais. Portanto, faz mais sentido calcular a precisão e recuperar as métricas nos primeiros N itens em vez de em todos os itens. Assim, a noção de precisão e rechamada em k, onde k é um número inteiro definível pelo avaliador para corresponder ao objetivo das N recomendações principais.
 
 #  Próximos Passos
 
+Iniciar um segundo ciclo para analisar o problema buscando abordagens diferentes, tendo em vista principalmente o desbalanceamento do conjunto de dados
+
+Possíveis pontos para serem abordados no segundo ciclo:
+
+-**Aprofundamento em derivações de features**
+
+-**Rescaling e Encode dos dados com metodologias diferentes**
+
+-**Trabalhar com novas Features para treinar o modelo**
+
+-**Trabalhar com um método mais robusto para achar os melhores Hyperparametros para o modelo**
 
