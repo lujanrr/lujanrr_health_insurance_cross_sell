@@ -171,7 +171,7 @@ Outro ponto interessante foram as métricas diferenciadas para este tipo de meto
 
 #  Próximos Passos
 
-Iniciar um segundo ciclo para analisar o problema buscando abordagens diferentes, tendo em vista principalmente o desbalanceamento do conjunto de dados
+Iniciar mais um ciclo para analisar o problema buscando abordagens diferentes, tendo em vista principalmente o desbalanceamento do conjunto de dados.
 
 Possíveis pontos para serem abordados no segundo ciclo:
 
